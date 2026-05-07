@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GameDevLab.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/DualSwinging.unity
+    guid: ce076a4bc11d33442b1927d7b2a0803f
+  - enabled: 1
+    path: Assets/WinScene.unity
+    guid: e7f0412c537147d449ad15e281f5fb8a
   m_configObjects: {}
