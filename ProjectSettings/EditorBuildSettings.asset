@@ -9,9 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/GameDevLab.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/DualSwinging.unity
+    path: Assets/Scenes/StartScene.unity
+    guid: 514d45a6bae16ce4690c2feac9fb0fe9
+  - enabled: 1
+    path: Assets/Scenes/DualSwinging.unity
     guid: ce076a4bc11d33442b1927d7b2a0803f
   - enabled: 1
-    path: Assets/WinScene.unity
+    path: Assets/Scenes/WinScene.unity
     guid: e7f0412c537147d449ad15e281f5fb8a
   m_configObjects: {}
